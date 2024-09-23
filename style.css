@@ -1,0 +1,23 @@
+*{
+    color:white;
+    text-decoration: none;
+}
+#navbar{
+    height: 60px;
+    background-color: #0F1111;
+   
+
+}
+button{
+    background-color: goldenrod;
+}
+#logo{
+     color:orange;
+     font-size:25px; 
+
+}
+
+a{
+   margin-right:200px;
+
+}
