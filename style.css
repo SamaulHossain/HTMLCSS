@@ -16,8 +16,26 @@ button{
      font-size:25px; 
 
 }
+#contentbox{
+            width: 100px;
+            height:100px;
+
+}
 
 a{
    margin-right:200px;
+
+}
+footer{
+   text-align: center;
+
+}
+#content{
+    width: 500px;
+    height: 600px;;
+}
+footer{
+       background-color: #0F1111;
+       color: white;
 
 }
